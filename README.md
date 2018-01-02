@@ -6,10 +6,10 @@ Using a combination of admin bypass discover by Darren Kitchen and mimikatz, thi
 #
 ## Features
 #
-. Uses admin bypass discoverd by Darren Kitchen
-. Fast
-. Made for bash bunny
-. Also their is one for rubber ducky which is faster
+- Uses admin bypass discoverd by Darren Kitchen
+- Fast
+- Made for bash bunny
+- Also their is one for rubber ducky which is faster
 #
 #
 ### How to use
